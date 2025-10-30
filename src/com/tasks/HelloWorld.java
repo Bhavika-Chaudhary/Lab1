@@ -1,4 +1,4 @@
-package com.example.helloworld;
+package com.tasks;
 
 public class HelloWorld {
     public static void main() {
