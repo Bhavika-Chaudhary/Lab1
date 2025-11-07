@@ -23,3 +23,5 @@ public class MaxAndMin {
         System.out.println("The smallest number is: " + min);
     }
 }
+
+
